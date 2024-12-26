@@ -40,7 +40,7 @@ To test all the algorithms.
 - WIP
 
 ## To-Do
-- [ ]  Add tests for ALL algorithms
+- ~[x]  Add tests for ALL algorithms~
 - [ ]  Add data structures
 ~maybe~
 - [ ]  Create custom test runner
